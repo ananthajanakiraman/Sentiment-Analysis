@@ -28,7 +28,7 @@ The work by Go, et al. and Chin, et al. are certainly impressive in their own ri
 
 **4. Types of Classifiers**
 
-        We wanted to use as many classifiers as MeTA had to compare and contrast the performance of each classifier with a given dataset.  However, we were not able to get every classifier to work.  Out out the long list of built-in MeTA classifiers, we were able get Naive-Bayes, Logistic Regression, Winnow, One-vs-All, and One-vs-One to work. The classifiers we used in this project are briefly discussed below.
+We wanted to use as many classifiers as MeTA had to compare and contrast the performance of each classifier with a given dataset.  However, we were not able to get every classifier to work.  Out out the long list of built-in MeTA classifiers, we were able get Naive-Bayes, Logistic Regression, Winnow, One-vs-All, and One-vs-One to work. The classifiers we used in this project are briefly discussed below.
 
 **Naive-Bayes (Generative)**
 
