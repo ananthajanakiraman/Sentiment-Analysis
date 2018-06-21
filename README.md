@@ -1,7 +1,5 @@
 **1. Introduction**
 
-The conflict-ridden US Presidential debates in the year 2016 have inspired many individuals, especially millennials to use various social media platforms as means to express their opinions, which may or may not be quite emotionally charged. Using the knowledge we learned through our classwork and programming assignments related to topic/sentiment mining, we want to analyze how the public feels about the current election cycle. By mining the opinions of the public via social media platforms, we can gauge their sentiment towards candidates; this may help us understand how the public views may influence the outcome of the future leader of our country and subsequent elections as well.
-
 A variety of useful inferences can be made from user interactions on microblogging websites including opinions on variety of topics that are trending, current issues and major stories in the news, reviews on products, predictions and information on popular events, etc. By using twitter as our social media platform of choice, we are able to provide real-time assessment of the public&#39;s sentiment, jubilation, and uncertainty. Several attempts have been made to determine polarity of tweets and classify them into different emotions using various techniques. Using the trained classifiers, our objective is to label the various emotions of the tweets into the following three categories of sentiment:
 
 &#39;4&#39; - Positive, happy, jovial, etc.
