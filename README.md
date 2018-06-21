@@ -8,7 +8,7 @@ A variety of useful inferences can be made from user interactions on microbloggi
 
 &#39;0&#39; - Negative, anger, fear, hate, etc.
 
-We decided to use MeTA to accomplish our goal due to our general familiarity of it through our course assignments. Our goal is to employ some of the techniques and knowledge gathered from the course to achieve the best possible results.
+We decided to use MeTA to accomplish our goal due to our general familiarity of it through other projects. Our goal is to employ some of the techniques and knowledge gathered from the course to achieve the best possible results.
 
 **2. Related Work**
 
