@@ -1,0 +1,13 @@
+# Target labels
+ ceeaus
+# Source files and their labels
+/Users/Kousik/meta/build/tests/CMakeFiles/ceeaus
+/Users/Kousik/meta/build/tests/CMakeFiles/ceeaus.rule
+/Users/Kousik/meta/build/tests/CMakeFiles/ceeaus-complete.rule
+/Users/Kousik/meta/build/tests/ceeaus-prefix/src/ceeaus-stamp/ceeaus-install.rule
+/Users/Kousik/meta/build/tests/ceeaus-prefix/src/ceeaus-stamp/ceeaus-mkdir.rule
+/Users/Kousik/meta/build/tests/ceeaus-prefix/src/ceeaus-stamp/ceeaus-download.rule
+/Users/Kousik/meta/build/tests/ceeaus-prefix/src/ceeaus-stamp/ceeaus-update.rule
+/Users/Kousik/meta/build/tests/ceeaus-prefix/src/ceeaus-stamp/ceeaus-patch.rule
+/Users/Kousik/meta/build/tests/ceeaus-prefix/src/ceeaus-stamp/ceeaus-configure.rule
+/Users/Kousik/meta/build/tests/ceeaus-prefix/src/ceeaus-stamp/ceeaus-build.rule

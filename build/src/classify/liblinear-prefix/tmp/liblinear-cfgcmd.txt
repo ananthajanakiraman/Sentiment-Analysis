@@ -1,0 +1,1 @@
+cmd='/usr/local/Cellar/cmake/3.6.2/bin/cmake;-DCMAKE_BUILD_TYPE=Release;-C/Users/Kousik/meta/build/src/classify/liblinear-prefix/tmp/liblinear-cache-$<CONFIG>.cmake;-GUnix Makefiles;/Users/Kousik/meta/src/../deps/libsvm-modules/liblinear'

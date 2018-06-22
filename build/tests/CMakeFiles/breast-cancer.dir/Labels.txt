@@ -1,0 +1,13 @@
+# Target labels
+ breast-cancer
+# Source files and their labels
+/Users/Kousik/meta/build/tests/CMakeFiles/breast-cancer
+/Users/Kousik/meta/build/tests/CMakeFiles/breast-cancer.rule
+/Users/Kousik/meta/build/tests/CMakeFiles/breast-cancer-complete.rule
+/Users/Kousik/meta/build/tests/breast-cancer-prefix/src/breast-cancer-stamp/breast-cancer-install.rule
+/Users/Kousik/meta/build/tests/breast-cancer-prefix/src/breast-cancer-stamp/breast-cancer-mkdir.rule
+/Users/Kousik/meta/build/tests/breast-cancer-prefix/src/breast-cancer-stamp/breast-cancer-download.rule
+/Users/Kousik/meta/build/tests/breast-cancer-prefix/src/breast-cancer-stamp/breast-cancer-update.rule
+/Users/Kousik/meta/build/tests/breast-cancer-prefix/src/breast-cancer-stamp/breast-cancer-patch.rule
+/Users/Kousik/meta/build/tests/breast-cancer-prefix/src/breast-cancer-stamp/breast-cancer-configure.rule
+/Users/Kousik/meta/build/tests/breast-cancer-prefix/src/breast-cancer-stamp/breast-cancer-build.rule

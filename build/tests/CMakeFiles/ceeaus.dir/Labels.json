@@ -1,0 +1,51 @@
+
+{
+	"sources" : 
+	[
+		
+		{
+			"file" : "/Users/Kousik/meta/build/tests/CMakeFiles/ceeaus"
+		},
+		
+		{
+			"file" : "/Users/Kousik/meta/build/tests/CMakeFiles/ceeaus.rule"
+		},
+		
+		{
+			"file" : "/Users/Kousik/meta/build/tests/CMakeFiles/ceeaus-complete.rule"
+		},
+		
+		{
+			"file" : "/Users/Kousik/meta/build/tests/ceeaus-prefix/src/ceeaus-stamp/ceeaus-install.rule"
+		},
+		
+		{
+			"file" : "/Users/Kousik/meta/build/tests/ceeaus-prefix/src/ceeaus-stamp/ceeaus-mkdir.rule"
+		},
+		
+		{
+			"file" : "/Users/Kousik/meta/build/tests/ceeaus-prefix/src/ceeaus-stamp/ceeaus-download.rule"
+		},
+		
+		{
+			"file" : "/Users/Kousik/meta/build/tests/ceeaus-prefix/src/ceeaus-stamp/ceeaus-update.rule"
+		},
+		
+		{
+			"file" : "/Users/Kousik/meta/build/tests/ceeaus-prefix/src/ceeaus-stamp/ceeaus-patch.rule"
+		},
+		
+		{
+			"file" : "/Users/Kousik/meta/build/tests/ceeaus-prefix/src/ceeaus-stamp/ceeaus-configure.rule"
+		},
+		
+		{
+			"file" : "/Users/Kousik/meta/build/tests/ceeaus-prefix/src/ceeaus-stamp/ceeaus-build.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : [ "ceeaus" ],
+		"name" : "ceeaus"
+	}
+}

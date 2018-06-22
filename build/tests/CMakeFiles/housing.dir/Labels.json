@@ -1,0 +1,51 @@
+
+{
+	"sources" : 
+	[
+		
+		{
+			"file" : "/Users/Kousik/meta/build/tests/CMakeFiles/housing"
+		},
+		
+		{
+			"file" : "/Users/Kousik/meta/build/tests/CMakeFiles/housing.rule"
+		},
+		
+		{
+			"file" : "/Users/Kousik/meta/build/tests/CMakeFiles/housing-complete.rule"
+		},
+		
+		{
+			"file" : "/Users/Kousik/meta/build/tests/housing-prefix/src/housing-stamp/housing-install.rule"
+		},
+		
+		{
+			"file" : "/Users/Kousik/meta/build/tests/housing-prefix/src/housing-stamp/housing-mkdir.rule"
+		},
+		
+		{
+			"file" : "/Users/Kousik/meta/build/tests/housing-prefix/src/housing-stamp/housing-download.rule"
+		},
+		
+		{
+			"file" : "/Users/Kousik/meta/build/tests/housing-prefix/src/housing-stamp/housing-update.rule"
+		},
+		
+		{
+			"file" : "/Users/Kousik/meta/build/tests/housing-prefix/src/housing-stamp/housing-patch.rule"
+		},
+		
+		{
+			"file" : "/Users/Kousik/meta/build/tests/housing-prefix/src/housing-stamp/housing-configure.rule"
+		},
+		
+		{
+			"file" : "/Users/Kousik/meta/build/tests/housing-prefix/src/housing-stamp/housing-build.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : [ "housing" ],
+		"name" : "housing"
+	}
+}

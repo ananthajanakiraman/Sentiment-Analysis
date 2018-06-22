@@ -1,0 +1,2 @@
+/Library/Developer/CommandLineTools/usr/bin/ar qc ../../lib/libmeta-utf.a  CMakeFiles/meta-utf.dir/segmenter.cpp.o CMakeFiles/meta-utf.dir/transformer.cpp.o CMakeFiles/meta-utf.dir/utf.cpp.o
+/Library/Developer/CommandLineTools/usr/bin/ranlib ../../lib/libmeta-utf.a

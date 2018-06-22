@@ -1,0 +1,106 @@
+Performing C++ SOURCE FILE Test META_HAS_ALIGNED_ALLOC failed with the following output:
+Change Dir: /Users/Kousik/meta/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_bab45/fast"
+/Library/Developer/CommandLineTools/usr/bin/make -f CMakeFiles/cmTC_bab45.dir/build.make CMakeFiles/cmTC_bab45.dir/build
+Building CXX object CMakeFiles/cmTC_bab45.dir/src.cxx.o
+/Library/Developer/CommandLineTools/usr/bin/clang++    -I/Library/Developer/CommandLineTools/usr/include/c++/v1  -DMETA_HAS_ALIGNED_ALLOC  -std=c++1y -stdlib=libc++ -stdlib=libc++ /usr/lib/libc++abi.dylib -L/usr/lib /usr/lib/libdl.dylib   -o CMakeFiles/cmTC_bab45.dir/src.cxx.o -c /Users/Kousik/meta/build/CMakeFiles/CMakeTmp/src.cxx
+clang: warning: /usr/lib/libc++abi.dylib: 'linker' input unused
+clang: warning: /usr/lib/libdl.dylib: 'linker' input unused
+clang: warning: argument unused during compilation: '-L/usr/lib'
+/Users/Kousik/meta/build/CMakeFiles/CMakeTmp/src.cxx:6:7: error: no member named 'aligned_alloc' in the global namespace
+    ::aligned_alloc(64, 128);
+    ~~^
+1 error generated.
+make[1]: *** [CMakeFiles/cmTC_bab45.dir/src.cxx.o] Error 1
+make: *** [cmTC_bab45/fast] Error 2
+
+Source file was:
+
+#include <cstdlib>
+
+int main()
+{
+    ::aligned_alloc(64, 128);
+    return 0;
+}
+Performing C++ SOURCE FILE Test META_HAS_EXPERIMENTAL_FILESYSTEM failed with the following output:
+Change Dir: /Users/Kousik/meta/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_ee1c4/fast"
+/Library/Developer/CommandLineTools/usr/bin/make -f CMakeFiles/cmTC_ee1c4.dir/build.make CMakeFiles/cmTC_ee1c4.dir/build
+Building CXX object CMakeFiles/cmTC_ee1c4.dir/src.cxx.o
+/Library/Developer/CommandLineTools/usr/bin/clang++    -I/Library/Developer/CommandLineTools/usr/include/c++/v1  -DMETA_HAS_EXPERIMENTAL_FILESYSTEM  -std=c++1y -stdlib=libc++ -stdlib=libc++ /usr/lib/libc++abi.dylib -L/usr/lib /usr/lib/libdl.dylib   -o CMakeFiles/cmTC_ee1c4.dir/src.cxx.o -c /Users/Kousik/meta/build/CMakeFiles/CMakeTmp/src.cxx
+clang: warning: /usr/lib/libc++abi.dylib: 'linker' input unused
+clang: warning: /usr/lib/libdl.dylib: 'linker' input unused
+clang: warning: argument unused during compilation: '-L/usr/lib'
+/Users/Kousik/meta/build/CMakeFiles/CMakeTmp/src.cxx:2:10: fatal error: 'experimental/filesystem' file not found
+#include <experimental/filesystem>
+         ^
+1 error generated.
+make[1]: *** [CMakeFiles/cmTC_ee1c4.dir/src.cxx.o] Error 1
+make: *** [cmTC_ee1c4/fast] Error 2
+
+Source file was:
+
+#include <experimental/filesystem>
+
+int main()
+{
+    std::experimental::filesystem::path p1 = "/usr";
+    return 0;
+}
+Performing C++ SOURCE FILE Test META_HAS_EXPERIMENTAL_FILESYSTEM_REMOVE_ALL failed with the following output:
+Change Dir: /Users/Kousik/meta/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_62331/fast"
+/Library/Developer/CommandLineTools/usr/bin/make -f CMakeFiles/cmTC_62331.dir/build.make CMakeFiles/cmTC_62331.dir/build
+Building CXX object CMakeFiles/cmTC_62331.dir/src.cxx.o
+/Library/Developer/CommandLineTools/usr/bin/clang++    -I/Library/Developer/CommandLineTools/usr/include/c++/v1  -DMETA_HAS_EXPERIMENTAL_FILESYSTEM_REMOVE_ALL  -std=c++1y -stdlib=libc++ -stdlib=libc++ /usr/lib/libc++abi.dylib -L/usr/lib /usr/lib/libdl.dylib   -o CMakeFiles/cmTC_62331.dir/src.cxx.o -c /Users/Kousik/meta/build/CMakeFiles/CMakeTmp/src.cxx
+clang: warning: /usr/lib/libc++abi.dylib: 'linker' input unused
+clang: warning: /usr/lib/libdl.dylib: 'linker' input unused
+clang: warning: argument unused during compilation: '-L/usr/lib'
+/Users/Kousik/meta/build/CMakeFiles/CMakeTmp/src.cxx:2:10: fatal error: 'experimental/filesystem' file not found
+#include <experimental/filesystem>
+         ^
+1 error generated.
+make[1]: *** [CMakeFiles/cmTC_62331.dir/src.cxx.o] Error 1
+make: *** [cmTC_62331/fast] Error 2
+
+Return value: 1
+Source file was:
+
+#include <experimental/filesystem>
+
+int main()
+{
+    std::experimental::filesystem::remove_all("/Users/Kousik/meta/build/meta-filesystem-test");
+    return 0;
+}
+Performing C++ SOURCE FILE Test META_HAS_EXPERIMENTAL_STRING_VIEW failed with the following output:
+Change Dir: /Users/Kousik/meta/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_b2ea4/fast"
+/Library/Developer/CommandLineTools/usr/bin/make -f CMakeFiles/cmTC_b2ea4.dir/build.make CMakeFiles/cmTC_b2ea4.dir/build
+Building CXX object CMakeFiles/cmTC_b2ea4.dir/src.cxx.o
+/Library/Developer/CommandLineTools/usr/bin/clang++    -I/Library/Developer/CommandLineTools/usr/include/c++/v1  -DMETA_HAS_EXPERIMENTAL_STRING_VIEW  -std=c++1y -stdlib=libc++ -stdlib=libc++ /usr/lib/libc++abi.dylib -L/usr/lib /usr/lib/libdl.dylib   -o CMakeFiles/cmTC_b2ea4.dir/src.cxx.o -c /Users/Kousik/meta/build/CMakeFiles/CMakeTmp/src.cxx
+clang: warning: /usr/lib/libc++abi.dylib: 'linker' input unused
+clang: warning: /usr/lib/libdl.dylib: 'linker' input unused
+clang: warning: argument unused during compilation: '-L/usr/lib'
+/Users/Kousik/meta/build/CMakeFiles/CMakeTmp/src.cxx:2:10: fatal error: 'experimental/string_view' file not found
+#include <experimental/string_view>
+         ^
+1 error generated.
+make[1]: *** [CMakeFiles/cmTC_b2ea4.dir/src.cxx.o] Error 1
+make: *** [cmTC_b2ea4/fast] Error 2
+
+Source file was:
+
+#include <experimental/string_view>
+int main() {
+    const std::experimental::string_view sv = "hello world";
+    // test that string_view has to_string() const method
+    // Xcode 6.4 appears to have shipped a string_view without it
+    auto str = sv.to_string();
+    return 0;
+}

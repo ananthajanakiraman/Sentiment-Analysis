@@ -1,0 +1,13 @@
+# Target labels
+ housing
+# Source files and their labels
+/Users/Kousik/meta/build/tests/CMakeFiles/housing
+/Users/Kousik/meta/build/tests/CMakeFiles/housing.rule
+/Users/Kousik/meta/build/tests/CMakeFiles/housing-complete.rule
+/Users/Kousik/meta/build/tests/housing-prefix/src/housing-stamp/housing-install.rule
+/Users/Kousik/meta/build/tests/housing-prefix/src/housing-stamp/housing-mkdir.rule
+/Users/Kousik/meta/build/tests/housing-prefix/src/housing-stamp/housing-download.rule
+/Users/Kousik/meta/build/tests/housing-prefix/src/housing-stamp/housing-update.rule
+/Users/Kousik/meta/build/tests/housing-prefix/src/housing-stamp/housing-patch.rule
+/Users/Kousik/meta/build/tests/housing-prefix/src/housing-stamp/housing-configure.rule
+/Users/Kousik/meta/build/tests/housing-prefix/src/housing-stamp/housing-build.rule
