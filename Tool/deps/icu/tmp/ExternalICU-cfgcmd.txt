@@ -1,0 +1,1 @@
+cmd='CC=/Library/Developer/CommandLineTools/usr/bin/cc;CXX=/Library/Developer/CommandLineTools/usr/bin/c++;CFLAGS=;CXXFLAGS=;/Users/Kousik/meta/deps/icu/src/ExternalICU/source/runConfigureICU;MacOSX;--disable-shared;--enable-static;--disable-dyload;--disable-extras;--disable-tests;--disable-samples;--prefix=<INSTALL_DIR>'
