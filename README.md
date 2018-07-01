@@ -32,19 +32,19 @@ We wanted to use as many classifiers as MeTA had to compare and contrast the per
 
 A machine learning algorithm based on a probabilistic model applying Bayes&#39; theorem.  One advantage of this classifier is that it is highly scalable.  Naive-Bayes algorithm is shown below1:
 
-<img src="picc1.png">
+<img src="Images/picc1.png">
 
 **Logistic Regression (Discriminative)**
 
 A machine learning algorithm that is used to estimate the probability of a binary response based on one or more predictor variables or features.  Logistic regression equation is show below2:
 
-<img src="picc2.png">
+<img src="Images/picc2.png">
 
 **Winnow (Linear)**
 
 A machine learning technique to learn a linear classifier from labeled examples.  It is a simple algorithm that performs best when dimensions are irrelevant.  The basic Winnow algorithm for two dimensions is shown below3:
 
-<img src="picc3.png">
+<img src="Images/picc3.png">
 
 **One-vs-All and One-vs-One (Binary)**
 
@@ -123,7 +123,7 @@ We documented each classifier&#39;s precision, recall and F1 scores.  The formul
 1. Recall - the number of True Positives divided by the number of True Positives and the number of False Negatives.
 2. Precision - the number of True Positives divided by the number of True Positives and False Positives.
 3. F1 score - The balance between the precision and the recall given by the following formula:
-<img src="picc4.png">
+<img src="Images/picc4.png">
 
 Our prediction was that as we increase the training size these scores should increase as well. The reason for that assumption was that as there are more tweets to train the classifier with all three scores should increase as well.
 
@@ -167,11 +167,11 @@ Changing the classifier in MeTA is simple. We relied heavily on the documentatio
 
 **Precision, Recall and F1 Score Comparison (100K Tweets) :**
 
-<img src="picc5.png">
+<img src="Images/picc5.png">
 
 **Overall Accuracy Meter (100K Tweets) :**
 
-<img src="picc6.png">
+<img src="Images/picc6.png">
 
 **Best Performance :** One-vs-One Classifier with an Overall Accuracy of 74.3% (0.743).
 
